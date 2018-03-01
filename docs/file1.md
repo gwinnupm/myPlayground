@@ -4,4 +4,4 @@
 
 #header 1
 
-Here's [GitHub] (https://github.com)
+Here's a link to [GitHub] (https://github.com).
