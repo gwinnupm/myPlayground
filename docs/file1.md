@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 **hello**
 
 *Trying some markdown stuff*
