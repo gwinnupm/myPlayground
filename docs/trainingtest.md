@@ -36,16 +36,16 @@ The resources below are optional, but extremely valuable, and may improve you un
 
 ### DXC University
 
-[![DXC_University]({{ "/images/dxcuniversity.png" | relative_url}})](https://csc.skillport.com/)
+[![DXC_University]({{ "/images/dxcuniversity.png" | relative_url}})](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/local/home)
 
-* [DXC University](https://csc.skillport.com)
-- [DXC University: beginner GIT](https://csc.skillport.com/skillportfe/main.action?path=summary/COURSES/sd_gitf_a01_it_enus)
-- [DXC University: advanced GIT](https://csc.skillport.com/skillportfe/main.action?path=summary/COURSES/sd_gitf_a02_it_enus)
-- [DXC University: Jenkins fundamentals](https://csc.skillport.com/skillportfe/main.action?path=summary/COURSES/sd_jenk_a01_it_enus)
-- [DXC University: Using Jira](https://csc.skillport.com/skillportfe/main.action?path=browsecatalog/en/_fcpaths_L1RhcmdldGVkX1Byb2dyYW1zX3F2dHMvQ2xpZW50X0RlbGl2ZXJ5X3F2djgvY3VzdG9tLUFnaWxlX1Byb2dyYW1zL0FnaWxlX1Rvb2xzX0xlYXJuaW5nX2U2c3kvc2RfamlyYQ.._fcpathe_)
+* [DXC University](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/local/home)
+- [DXC University: beginner GIT](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000162555)
+- [DXC University: advanced GIT](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000165566)
+- [DXC University: Jenkins fundamentals](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000166563)
+- [DXC University: Using Jira](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000162556)
 - [DXC University: Introduction to Automation with Terraform](https://csc.skillport.com/skillportfe/main.action?path=summary/COURSES/sd_terr_a01_it_enus)
 - [Software Practices: Scrum Roles](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000161415)
-- [DXC University: Agile ceremonies](https://csc.skillport.com/skillportfe/main.action?path=summary/COURSES/sd_spsc_a02_it_enus)
+- [DXC University: Agile ceremonies](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000175365)
 - [Agile Scrum Master Training](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000159837) - Submit a request, this is the required class for obtaining Scrum Master Certification.
 
 If you are having issues accessing the site, see
