@@ -43,7 +43,7 @@ The resources below are optional, but extremely valuable, and may improve you un
 - [DXC University: advanced GIT](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000165566)
 - [DXC University: Jenkins fundamentals](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000166563)
 - [DXC University: Using Jira](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000162556)
-- [DXC University: Introduction to Automation with Terraform](https://csc.skillport.com/skillportfe/main.action?path=summary/COURSES/sd_terr_a01_it_enus)
+- [DXC University: Terraform](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/searchresults/terraform/LEARNINGEVENT%2COFFERINGTEMPLATE%2CCERTIFICATION%2CCURRICULUM%2COFFERING%2CPACKAGE)
 - [Software Practices: Scrum Roles](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000161415)
 - [DXC University: Agile ceremonies](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000175365)
 - [Agile Scrum Master Training](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/cours000000000159837) - Submit a request, this is the required class for obtaining Scrum Master Certification.
