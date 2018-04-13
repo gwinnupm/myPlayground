@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td>
+    <td style="width: 200px;">
 
 <div markdown="1">
 ## Servers
@@ -22,7 +22,7 @@ c1w03190.itcs.hp.com
 c1w03192.itcs.hp.com 
 </div>
 </td>
-<td>
+<td style="width: 200px;">
 <div markdown="1">
 ## Servers2
 **ppl-ititg1-ui**  
