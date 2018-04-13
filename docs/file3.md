@@ -1,6 +1,7 @@
-<div>
+<table>
+  <tr>
+    <td>
 
-<div style="width: 200px;">
 
 ## Servers
 **ppl-ititg1-ui**  
@@ -19,10 +20,8 @@ c1w03195.itcs.hp.com
 c1w03188.itcs.hp.com  
 c1w03190.itcs.hp.com  
 c1w03192.itcs.hp.com 
-
-</div>
-
-<div style="width: 200px;">
+</td>
+<td>
 
 ## Servers2
 **ppl-ititg1-ui**  
@@ -42,6 +41,6 @@ c1w03188.itcs.hp.com
 c1w03190.itcs.hp.com  
 c1w03192.itcs.hp.com 
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
