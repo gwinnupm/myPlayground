@@ -2,7 +2,7 @@
   <tr>
     <td>
 
-
+<div markdown="1">
 ## Servers
 **ppl-ititg1-ui**  
 c1w03189.itcs.hp.com  
@@ -20,9 +20,10 @@ c1w03195.itcs.hp.com
 c1w03188.itcs.hp.com  
 c1w03190.itcs.hp.com  
 c1w03192.itcs.hp.com 
+</div>
 </td>
 <td>
-
+<div markdown="1">
 ## Servers2
 **ppl-ititg1-ui**  
 c1w03189.itcs.hp.com  
@@ -40,7 +41,7 @@ c1w03195.itcs.hp.com
 c1w03188.itcs.hp.com  
 c1w03190.itcs.hp.com  
 c1w03192.itcs.hp.com 
-
+</div>
 </td>
 </tr>
 </table>
